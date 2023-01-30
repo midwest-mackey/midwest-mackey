@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX and front end development
 - 🌱 I’m currently learning Angular
 
-Checkout my [portfolio]{https://github.com/midwest-mackey/portfolio}
+Checkout my [portfolio](https://github.com/midwest-mackey/portfolio)
 
 <!---
 midwest-mackey/midwest-mackey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
