@@ -3,7 +3,7 @@ midwest-mackey/midwest-mackey is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @midwest-mackey
-- 👀 I’m interested in UX and front end development
+- 👀 I’m a professional UX practitioner interested in front end development
 - 🌱 I’m currently learning Angular
   
 [!["Buy Me A Coffee"](https://github.com/midwest-mackey/share/blob/main/assets/bmc-button1.png)](https://buymeacoffee.com/midwestmackey)
