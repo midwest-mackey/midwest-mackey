@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m a professional UX practitioner interested in front end development
 - 🌱 I’m currently learning Angular
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12133134372&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12133134372&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12133134372&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12133134372&redirect=true)
 
 #### Tools, Skills, Interests
 
